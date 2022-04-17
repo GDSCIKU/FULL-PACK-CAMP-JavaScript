@@ -1,5 +1,7 @@
 # FULL-PACK-CAMP-JavaScript
-The Javascripters Land
+Welcome To The Javascripters Land 
+
+![welcome](https://media0.giphy.com/media/w9lNTF0PwuF6HAcRN9/giphy.gif?cid=ecf05e47swe48aoogtu6eqizbpa6ug49da0vf4pyy3o1dwnn&rid=giphy.gif&ct=g)
 
 ## how to solve and commit ?
 - `git clone https://github.com/GDSCIKU/FULL-PACK-CAMP-JavaScript.git`
