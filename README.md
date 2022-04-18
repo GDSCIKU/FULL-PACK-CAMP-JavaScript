@@ -5,7 +5,7 @@
 
 ## First Mission And How To Do It ?
 - fork this repo to your repos using fork
-- got to that green button code and copy the URl of the repo
+- go to that green button code and copy the URL of the repo
 - go to the command line and type this
 - `git clone https://github.com/GDSCIKU/FULL-PACK-CAMP-JavaScript.git`
 - enter to the file using the command line
