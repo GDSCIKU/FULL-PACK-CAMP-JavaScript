@@ -9,8 +9,8 @@
 - go to the command line and type this
 - `git clone https://github.com/GDSCIKU/FULL-PACK-CAMP-JavaScript.git`
 - enter to the file using the command line
-- now solve the problems that are in the repo back in Github, put the files in a folder named by your name and put the folder in the main file (FULL-PACK-CAMP-JavaScript)
-- `git checkout week1`
+- now solve the problems that are in the repo back in Github, put the files in a folder named by your name / the week and put the folder in the main file (FULL-PACK-CAMP-JavaScript)
+- `git checkout week1` or the week that you solve it's assignements (for exemple: `git checkout week2` for week2)
 - `git add .`
 - `git commit -m "your name"`
-- `git push origin week1`
+- `git push origin week1` or the week that you solve it's assignements
